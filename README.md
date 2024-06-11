@@ -8,7 +8,7 @@
 # 设计模式：
 * 类图如下：
   
-![alt text](image.png)
+![alt text](image/image.png)
 
 * 文件与模式：
   * data.json中为输入数据，可自行修改
@@ -38,7 +38,7 @@
 
 # 运行结果：
 * 可直接运行main.py文件：
-  ![alt text](image-1.png)
+  ![alt text](image/image-1.png)
 
 上述内容为四次运行fje的结果：
 
